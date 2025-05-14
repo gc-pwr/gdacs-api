@@ -1,6 +1,8 @@
 # gdacs-api
 Unofficial python library for working with [Global Disaster Alert and Coordination System (GDACS)](https://www.gdacs.org/) API.
 
+[GDACS Api schema](https://www.gdacs.org/gdacsapi/swagger/v1/swagger.json)
+
 ## Setup
 If you already have `pip` installed, use the commands below to install the `gdacs-api` python library.
 
